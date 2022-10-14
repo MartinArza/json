@@ -7,6 +7,8 @@
 
             "logo":"https://team-projectv1.netlify.app/nosotros/img_us/ycombinator.png",
 
+            "company":"Y Combinator",
+
             "name":"Tim Brady",
 
             "job":"YCombinator Partner"
@@ -20,7 +22,9 @@
 
             "logo":"https://team-projectv1.netlify.app/nosotros/img_us/DraperLogo.png",
 
-            "name":"Tim Brady",
+            "company":"Y Combinator",
+
+            "name":"Draper University",
 
             "job":"Founder Draper University"
 
@@ -32,6 +36,8 @@
             "review":" “El papel de Code to Code en la provisión de ingreso asequible para la educación técnica de alta calidad puede ayudar a abordar los desafíos multifacéticos de la persistente desigualdad de ingresos, el alto desempleo y la escasez de trabajadores calificados que enfrentan tanto los estudiantes como los empleadores en América Latina”.",
 
             "logo":"https://team-projectv1.netlify.app/nosotros/img_us/accion.png",
+
+            "company":"Accion",
 
             "name":"Michael Schlein",
 
