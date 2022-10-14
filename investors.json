@@ -1,0 +1,45 @@
+{
+    "investors": [
+        {
+            "id": "1",
+
+            "review":" “Dada la gran demanda insatisfecha de ingenieros de software, crear una escuela en América Latina para desarrollar esos ingenieros es una gran oportunidad, y este es el equipo para tener éxito. Invertimos en Code to Code porque el equipo tiene talento y está orientado a la misión”.",
+
+            "logo":"https://team-projectv1.netlify.app/nosotros/img_us/ycombinator.png",
+
+            "name":"Tim Brady",
+
+            "job":"YCombinator Partner"
+
+        },
+
+        {
+            "id": "2",
+
+            "review":" “En un mundo remoto, puedes acceder al talento en todas partes y Code to Code está capacitando a los mejores ingenieros de Latam”.",
+
+            "logo":"https://team-projectv1.netlify.app/nosotros/img_us/DraperLogo.png",
+
+            "name":"Tim Brady",
+
+            "job":"Founder Draper University"
+
+        },
+
+        {
+            "id": "3",
+
+            "review":" “El papel de Code to Code en la provisión de ingreso asequible para la educación técnica de alta calidad puede ayudar a abordar los desafíos multifacéticos de la persistente desigualdad de ingresos, el alto desempleo y la escasez de trabajadores calificados que enfrentan tanto los estudiantes como los empleadores en América Latina”.",
+
+            "logo":"https://team-projectv1.netlify.app/nosotros/img_us/accion.png",
+
+            "name":"Michael Schlein",
+
+            "job":"CEO and President"
+
+        }
+
+    ]
+
+}
+
