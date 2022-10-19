@@ -1,51 +1,39 @@
-{
-    "investors": [
-        {
-            "id": "1",
-
-            "review":" “Dada la gran demanda insatisfecha de ingenieros de software, crear una escuela en América Latina para desarrollar esos ingenieros es una gran oportunidad, y este es el equipo para tener éxito. Invertimos en Code to Code porque el equipo tiene talento y está orientado a la misión”.",
-
-            "logo":"https://team-projectv1.netlify.app/nosotros/img_us/ycombinator.png",
-
-            "company":"Y Combinator",
-
-            "name":"Tim Brady",
-
-            "job":"YCombinator Partner"
-
-        },
-
-        {
-            "id": "2",
-
-            "review":" “En un mundo remoto, puedes acceder al talento en todas partes y Code to Code está capacitando a los mejores ingenieros de Latam”.",
-
-            "logo":"https://team-projectv1.netlify.app/nosotros/img_us/DraperLogo.png",
-
-            "company":"Y Combinator",
-
-            "name":"Draper University",
-
-            "job":"Founder Draper University"
-
-        },
-
-        {
-            "id": "3",
-
-            "review":" “El papel de Code to Code en la provisión de ingreso asequible para la educación técnica de alta calidad puede ayudar a abordar los desafíos multifacéticos de la persistente desigualdad de ingresos, el alto desempleo y la escasez de trabajadores calificados que enfrentan tanto los estudiantes como los empleadores en América Latina”.",
-
-            "logo":"https://team-projectv1.netlify.app/nosotros/img_us/accion.png",
-
-            "company":"Accion",
-
-            "name":"Michael Schlein",
-
-            "job":"CEO and President"
-
-        }
-
-    ]
-
-}
-
+{ 
+    "curiosos": [
+    {
+    "id": 1,
+    "descripcion": "Al reciclar una botella de plástico ahorramos la energía necesaria para mantener una bombilla encendida durante 6 horas. Y que las latas de aluminio se pueden reciclar y volver a poner en el estante de una tienda en tan sólo unos 2 meses.",
+    "imagen": "./imagenes/Curiosidad2.jpg",
+    "categoria": "Plastico" 
+    },
+    {
+    "id": 2,
+    "descripcion": "El vidrio es 100% reciclable y se puede utilizar una y otra vez. El reciclaje de vidrio se separa en colores porque el vidrio conserva su color incluso después de reciclado. De cada kilogramo de envase de vidrio reciclado se obtiene un kilogramo de nuevos envases, pues el vidrio no pierde ninguna de sus cualidades al ser reciclado. Los envases de vidrio permiten reciclarse indefinidamente.",
+    "imagen": "./imagenes/Curiosidad3.jpg",
+    "categoria": "Vidrio"
+    },
+    {
+    "id": 3,
+    "descripcion": "Más de 1 millón de aves marinas mueren cada año por contaminación oceánica producida por desperdicios que podrían haber sido reciclados. Y las bolsas de plástico que se tiran en el océano matan a más de un millón de criaturas marinas al año.",
+    "imagen": "./imagenes/Curiosidad4.jpg",
+    "categoria": "Plastico"
+    },
+    {
+    "id": 4,
+    "descripcion": "Para fabricar 1.000 Kg de papel de buena calidad se necesitan unos 3.300 Kg de madera. Reciclar papel y cartón es esencial para economizar la energía, evitar la contaminación y el desperdicio del agua y salvar los bosques. Unos 1000 kilos de papel reciclado en realidad pueden ayudar a salvar 17 árboles, más de 1300 litros de petróleo, y un montón de espacio en los vertederos. Eso también significa menos contaminación del aire.",
+    "imagen": "./imagenes/Curiosidad5.jpg",
+    "categoria": "Papel"
+    },
+    {
+    "id": 5,
+    "descripcion": "Las colillas de cigarrillos y los filtros tardan 12 años en biodegradarse. Un bidón de aluminio tarda entre 200 y 500 años para biodegradarse. Los pañales de plástico y compresas tardan entre 500-800 años.",
+    "imagen": "./imagenes/Curiosidad6.jpg",
+    "categoria": "Plastico"
+    },
+    {
+    "id": 6,
+    "descripcion": "Cada año aumenta la cantidad de residuos que generamos: en los últimos 40 años se ha producido más basura en el mundo que desde el origen del hombre hasta 1970.Tenemos la certeza que después de interiorizar algunos de estos datos le encontrarás más sentido a la costumbre ecointeligente de reciclar. ¡Súmate a la lucha y recicla!",
+    "imagen": "./imagenes/Curiosidad8-0000.jpg",
+    "categoria": "Plastico"
+    }]
+ }
